@@ -25,7 +25,6 @@
 
 - :school: I am a student at [Universidad Nacional de Ezeiza](https://web.upe.edu.ar/) and at [Talento Tech](https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro/talento-tech).
 - :technologist: I love programming Software.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Python` and `Linux`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
