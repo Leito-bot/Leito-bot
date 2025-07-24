@@ -318,5 +318,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "![Snake animation on your GitHub contributions graph](https://github.com/tu_nombre_de_usuario/tu_nombre_de_usuario/blob/output/github-contribution-grid-snake.svg)" alt = "Snake Game"/>
+	<img src = "![Snake animation](https://raw.githubusercontent.com/tu_nombre_de_usuario/tu_nombre_de_usuario/output/github-contribution-grid-snake.svg)" alt = "Snake Game"/>
 </p>
