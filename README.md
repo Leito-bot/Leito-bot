@@ -318,5 +318,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://raw.githubusercontent.com/Leito-bot/Leito-bot/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://raw.githubusercontent.com/Leito-bot/Leito-bot/output/github-contribution-grid-snake.svg" alt = "Una serpiente devorando mi gráfico de contribuciones"/>
 </p>
