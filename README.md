@@ -27,7 +27,7 @@
 - :technologist: I love programming Software.
 - :student: I’m currently learning `Python` and `Linux`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/Leito-bot/Mi-CV/blob/main/Curr%C3%ADculum%20Vitae%20-%20Leonel%20Rosso%20.pd).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/Leito-bot/Mi-CV/blob/main/Curr%C3%ADculum%20Vitae%20-%20Leonel%20Rosso%20.pdf).
 <!---
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 -->
